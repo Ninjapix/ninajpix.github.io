@@ -1,15 +1,14 @@
 # Hotswap Keyboard Build Guide
 ## Table of Contents:
-[History](#History)
-[Terminology](#Terminology)
-[Introduction](#Introduction)
-[Assembling the Keyboard](#Assembling-the-Keyboard)
- - [1. Testing the PCB](#1.-Testing-the-PCB)
- - [2. Installing Stabilizers](#2.-Installing-Stabilizers)
- - [3. Installing Switches](#3.-Installing-Switches)
- - [4. Assembling the Keyboard](#4.-Assembling-the-Keyboard)
-
-[Troubleshooting](#Troubleshooting)
+- [History](#History)
+- [Terminology](#Terminology)
+- [Introduction](#Introduction)
+- [Assembling the Keyboard](#Assembling-the-Keyboard)
+	 - [1. Testing the PCB](#1.-Testing-the-PCB)
+	 - [2. Installing Stabilizers](#2.-Installing-Stabilizers)
+	 - [3. Installing Switches](#3.-Installing-Switches)
+	 - [4. Assembling the Keyboard](#4.-Assembling-the-Keyboard)
+- [Troubleshooting](#Troubleshooting)
 
 ## History
 With the invention of the computer, keyboards came along with it. These older keyboards were designed around the typewriter, as it was what was familiar at the time and wouldn’t require users to learn a new layout or where keys were. Additionally, this is where the first mechanical keyboards started. The true definition of a mechanical keyboard is highly debated, however for this article it will be defined as a keyboard with a switch for each keycap on the keyboard. The keycap is a plastic piece with a letter on it, to indicate what letter will be displayed on the keyboard when it is pressed down. The switch underneath is what actually sends the input to the computer. Generally, mechanical switches work by touching metal contacts, which then sends a signal to the computer as to which key has been pressed.  The keyboards at this time were generally produced in house, and were un-standardized.
