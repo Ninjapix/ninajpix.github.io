@@ -95,7 +95,7 @@ To test your PCB:
 	- If you know your keyboard works with VIA or Vial, they can also be used. For these, go to the matrix tester section. The process will be the same as if you used the websites.
 2. Plug the PCB into your computer. Place it upside down, so you can see the hotswap sockets.
 3. Take a set of metal tweezers, and short the two contact pads of the hotswap socket.
-!/[KBD DZ60 PCB Photo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1473%2F3902%2Fproducts%2F7_48abb070-70b6-4236-91e8-a2e7ffc33c60.jpg%3Fv%3D1578016277&sp=1679432349Te0435c7c698c3a9bb2770e9e9405fc46eb7cd0c700f379e4edf97ea9613bffb8)
+![KBD DZ60 PCB Photo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1473%2F3902%2Fproducts%2F7_48abb070-70b6-4236-91e8-a2e7ffc33c60.jpg%3Fv%3D1578016277&sp=1679432349Te0435c7c698c3a9bb2770e9e9405fc46eb7cd0c700f379e4edf97ea9613bffb8)
 		- The photo here is from KBDFans' DZ60RGB V2 PCB, and can be found at (https://kbdfans.com/products/dz60rgb-hot-swap-custom-keyboard-pcb).
 	- The two contact pads Are the two metal squares connected to the black components. Do not short any metal parts that are not these two metal squares, as you could damage the PCB.
 4. Short all pairs of contact pads, and see if there are any that are not working
