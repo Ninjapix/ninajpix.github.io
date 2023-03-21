@@ -9,6 +9,8 @@
 	 - [3. Installing Switches](#3.-Installing-Switches)
 	 - [4. Assembling the Keyboard](#4.-Assembling-the-Keyboard)
 - [Troubleshooting](#Troubleshooting)
+- [User Persona](#User-Persona)
+- [Use Case Diagram](#Use-Case-Diagram)
 
 ## History
 With the invention of the computer, keyboards came along with it. These older keyboards were designed around the typewriter, as it was what was familiar at the time and wouldn’t require users to learn a new layout or where keys were. Additionally, this is where the first mechanical keyboards started. The true definition of a mechanical keyboard is highly debated, however for this article it will be defined as a keyboard with a switch for each keycap on the keyboard. The keycap is a plastic piece with a letter on it, to indicate what letter will be displayed on the keyboard when it is pressed down. The switch underneath is what actually sends the input to the computer. Generally, mechanical switches work by touching metal contacts, which then sends a signal to the computer as to which key has been pressed.  The keyboards at this time were generally produced in house, and were un-standardized.
@@ -150,3 +152,12 @@ If the switch comes out and the pins are straight, check if the keys that are ma
 If there isn't an entire row or column acting up, and the switch pins come out straight, then you might've just gotten a bad switch.
 - It's rare, but it does happen. Simply replace the switch with one of the extra switches.
 
+## Appendix
+
+### User Persona
+
+[Link](https://my.visme.co/view/dmg088j1-user-persona-general-hobbyist)
+
+### Use Case Diagram
+
+[Link](https://lucid.app/lucidchart/49fd08cf-8e5b-4874-8556-5dc60ff3dcbc/edit?view_items=adcDk6JkI673&invitationId=inv_82ed03a2-6fcd-4e01-8c8c-5658faaca31e)
